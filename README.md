@@ -2,8 +2,6 @@
 Any Pronouns. Really!
 
 ### 📬 Connect with Me
-### 📬 Connect & Follow
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/charliestarlight7270/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/charliestarlight.bsky.social)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CDHouston7270)
